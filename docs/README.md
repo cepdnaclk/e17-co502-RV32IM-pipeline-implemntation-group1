@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e17-co502-RV32IM-pipeline-implemntation-group1
+title:Building a RV32IM Pipelined Processor
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -19,9 +19,8 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/17/286, Tharindu Rathnayaka, [email](mailto:e17286@eng.pdn.ac.lk)
+-  E/17/064, Dhushintha Ramalingam, [email](mailto:e17064@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
