@@ -3,7 +3,7 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: e17-co502-RV32IM-pipeline-implementation-group1
+repository-name:e17-co502-RV32IM-pipeline-implementation-group1
 title:Building a RV32IM Pipelined Processor
 ---
 
