@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name:e17-co502-RV32IM-pipeline-implementation-group1
-title:Building a RV32IM Pipelined Processor
+repository-name: e17-co502-RV32IM-pipeline-implementation-group1
+title: Building a RV32IM Pipelined Processor
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
